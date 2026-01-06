@@ -3,5 +3,5 @@ TELEGRAM_GROUP_ID = -1003248128125
 
 CHECK_INTERVAL = 60  # detik (aman, stabil)
 
-USE_KEYWORD_FILTER = False  # True jika mau filter
+USE_KEYWORD_FILTER = True  # True jika mau filter
 
