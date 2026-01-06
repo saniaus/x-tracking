@@ -1,1 +1,118 @@
-
+stealth
+stealth mode
+still early
+early stage
+early
+alpha
+alpha phase
+private alpha
+internal alpha
+pre-beta
+before beta
+testnet only
+not launched yet
+pre-launch
+building quietly
+shipping soon
+soft launch
+limited access
+closed access
+code
+whitelist
+wl
+whitelisting
+early access
+early users
+early contributors
+founding users
+genesis users
+invite only
+access form
+apply here
+apply for access
+limited slots
+first cohort
+allowlist
+shipping
+shipping this week
+shipping today
+deployed
+live on testnet
+main branch
+merged
+commit
+PR merged
+refactor
+breaking changes
+milestone
+roadmap update
+iteration
+feature complete
+indexer
+relayer
+sequencer
+rollup
+zk
+zk proof
+circuit
+verifier
+AA / account abstraction
+ERC-4337
+RPC
+node
+subgraph
+graph
+SDK
+API unstable
+breaking API
+airdrop
+feedback welcome
+early feedback
+testing needed
+bug report
+known issues
+experimental
+expect bugs
+not production ready
+WIP
+work in progress
+no token yet
+token not decided
+no plans for token
+future incentives
+points
+XP
+reputation
+credits
+off-chain points
+on-chain later
+incentive design
+point
+founding community
+core contributors
+early builders
+devs only
+builders welcome
+join discord
+private discord
+small group
+tight feedback loop
+discord
+this is early
+don’t fade builders
+builders are cooking
+heads down building
+low followers, high IQ
+infra play
+boring tech, big upside
+ignore price, watch commits
+watch github
+team matters
+soon moon
+100x
+guaranteed
+next big thing
+marketing soon
+partnership coming
+huge announcement
+airdrop confirmed
