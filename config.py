@@ -1,1 +1,7 @@
+TELEGRAM_BOT_TOKEN = "8142113823:AAHhbz6ygVoMf92FoQj5_PGznALlvlDk7_g"
+TELEGRAM_GROUP_ID = -1003248128125
+
+CHECK_INTERVAL = 60  # detik (aman, stabil)
+
+USE_KEYWORD_FILTER = False  # True jika mau filter
 
